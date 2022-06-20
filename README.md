@@ -1,4 +1,4 @@
-I have to think what to put in here (stay tuned)
+I have to think about what to put in here (stay tuned)
 
 <!--
 **schwarzschild-radius/schwarzschild-radius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
